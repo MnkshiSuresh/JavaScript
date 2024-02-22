@@ -11,5 +11,12 @@ for(let i=0;i<5; ){
 
 let n=5;
 
+while(n<10){
+  console.log(n);
+  n++;
+}
 
+  
 //switch
+
+let m=2;
