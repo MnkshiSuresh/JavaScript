@@ -1,4 +1,6 @@
 var shopping_list=[["banana",5],["chocos",2],["pumpkin",1],["flowervase",1],["knife",3]];
+
+
 //now i need to cut items i bought in the order of the list:
 
 shopping_list.shift();
