@@ -1,3 +1,5 @@
+//looping statements-----------------------
+  
 //for
 
 for(let i=0;i<5;i++){
