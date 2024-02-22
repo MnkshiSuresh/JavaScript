@@ -20,3 +20,15 @@ while(n<10){
 //switch
 
 let m=2;
+
+switch(m){
+  case 1:
+    console.log("value is 2");
+    break;
+  case 2:
+    console.log("value is 3");
+    break;
+  default:
+    cosnole.log("invalid entry");
+}
+  
