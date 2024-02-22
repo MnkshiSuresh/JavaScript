@@ -1,4 +1,4 @@
-//conditional statements in js
+//conditional statements in js-------------------------
 
 //if else
 let a= prompt("enter the age");
